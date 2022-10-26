@@ -1,2 +1,4 @@
 # Myeventorg
-CSE404 Majoring in Software Engineering Final-Year Project
+*About Me*
+Final-Year Project
+My Subsystem: 1.2 (Dashboard & Award)
