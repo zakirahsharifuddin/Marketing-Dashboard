@@ -1,4 +1,4 @@
 # Myeventorg
-*About Me*
-Final-Year Project
-My Subsystem: 1.2 (Dashboard & Award)
+<sup> __##About Me__ </sup>
+__##Final-Year Project__
+__##My Subsystem: 1.2 (Dashboard & Award)__
