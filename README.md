@@ -2,7 +2,7 @@
 ## __About Me__ <br>
 My name is Zakirah binti Sharifuddin, a final-year student in School of Computer Science.<br><br>
 ## __Final-Year Project__ <br>
-#### Title: *Myeventorg*<br>
+#### Title: *MyEventOrg*<br>
 #### Subsystem: 
 *1.1 Event Creator*<br>
 *1.2 Marketing & Dashboard*<br>
