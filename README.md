@@ -1,4 +1,4 @@
-# Marketing & Dahsboard <br>
+# Marketing & Dashboard <br>
 ## __About Me__ <br>
 My name is Zakirah binti Sharifuddin, a final-year student in School of Computer Science.<br><br>
 ## __Final-Year Project__ <br>
